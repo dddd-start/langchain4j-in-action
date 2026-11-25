@@ -6,6 +6,7 @@
 > 配套的开源工程：[`dorm-platform`](https://github.com/dddd-start/dorm-platform) ——
 > 三服务拆分（业务 / AI Agent / 前端）+ 138 个零依赖单测 + 12 项冒烟 + 27 项全流程回归，
 > 文中引用的类名与方法名都能在那个仓库里找到对应源码。
+> 同作者的另一个 RAG 工程：[`knowledgeflow-agent`](https://github.com/dddd-start/knowledgeflow-agent)（Python，混合检索 + 意图路由 + 可复现评测）。
 
 ## 为什么要看生产代码而不是 Hello World
 
